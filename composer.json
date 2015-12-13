@@ -5,11 +5,16 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "author's name",
-      "email": "email@example.com"
+      "name": "buphmin",
+      "email": "buphmin@gmail.com"
     }
   ],
   "require": {
     "phpoffice/phpexcel": "1.8.1"
+  },
+  "autoload": {
+    "psr-0": {
+      "PHPExcelDataFiles": "src"
+    }
   }
 }
