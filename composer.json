@@ -1,0 +1,15 @@
+{
+  "name": "buphmin/PHPExcelDataFiles",
+  "description": "A simple PHPExcel wrapper to allow easy transfer and manipulation of file based data tables.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "phpoffice/phpexcel": "1.8.1"
+  }
+}
